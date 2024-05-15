@@ -204,9 +204,14 @@ long microsecondsToCentimeters(long microseconds) {
   return microseconds / 29 / 2;
   }
 ```
+## CIRCUIT DIAGRAM
+![image](https://github.com/Prasanth9025/Update-the-Ultrasonic-sensor-value-in-cloud/assets/118343686/3331b814-9c99-4c7e-a39f-51c653b3f200)
+
 
 # OUTPUT:
-![image](https://github.com/Prasanth9025/Update-the-Ultrasonic-sensor-value-in-cloud/assets/118343686/fca30f82-eb97-4820-9158-6149991cc086)
+![Ultrasonic output](https://github.com/Prasanth9025/Update-the-Ultrasonic-sensor-value-in-cloud/assets/118343686/42f1db85-d9f8-4581-bede-cda75aed3290)
+![Ultrasonic output (2)](https://github.com/Prasanth9025/Update-the-Ultrasonic-sensor-value-in-cloud/assets/118343686/7c7d0bc9-2da8-43ef-b94f-1af516512358)
+
 
 # RESULT:
 
